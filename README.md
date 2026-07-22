@@ -54,15 +54,6 @@ A minimalist SVG icon library for React.
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=veasnawt&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veasnawt&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ## 🌐 Find Me
 
 - GitHub: https://github.com/veasnawt
