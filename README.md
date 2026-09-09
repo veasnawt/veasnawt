@@ -2,16 +2,16 @@
 
 > Building the V ecosystem.
 
-```
+```text
                  V Ecosystem
 
                🖥️ VEASNA-OS
                      │
-        ┌────────────┼────────────┐
-        │            │            │
-   🎬 BP Studio   🎨 VIcons    🧩 VUI
-        │            │
-   Creative Apps   Open Source
+          ┌──────────┼──────────┐
+          │          │          │
+      🎬 VCut     🎨 VIcons    ...
+          │          │
+   Creative Tools  Open Source
 ```
 
 ---
@@ -24,12 +24,18 @@ modern technologies, and delightful developer experiences.
 ## 🚀 Featured Projects
 
 ### 🖥️ VEASNA-OS
+
 An ecosystem of modern applications, shared libraries, and design systems.
 
-### 🎬 BP Studio
-An AI-powered creative workspace for planning, creating, and publishing content.
+### 🎬 VCut
+
+An AI-powered video editor designed to make video creation faster,
+simpler, and more accessible.
+
+🌐 https://vcut.io
 
 ### 🎨 VIcons
+
 A minimalist SVG icon library for React.
 
 📦 https://www.npmjs.com/package/@veasnawt/vicons
@@ -46,18 +52,18 @@ A minimalist SVG icon library for React.
 
 ## 🌱 Currently Learning
 
-- Design Systems
-- Software Architecture
-- Artificial Intelligence
-- Product Design
-- Open Source
+* Design Systems
+* Software Architecture
+* Artificial Intelligence
+* Product Design
+* Open Source
 
 ---
 
 ## 🌐 Find Me
 
-- GitHub: https://github.com/veasnawt
-- npm: https://www.npmjs.com/~veasnawt
+* GitHub: https://github.com/veasnawt
+* npm: https://www.npmjs.com/~veasnawt
 
 ---
 
