@@ -33,6 +33,14 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
 
 [**GitHub**](https://github.com/veasnawt) · [**npm**](https://www.npmjs.com/~veasnawt) · [**VCut**](https://vcut.io) · [**VIcons**](https://github.com/veasnawt/vicons)
 
+## 📊 GitHub Productivity
+
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veasnawt&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veasnawt&theme=github_dark&utcOffset=7)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veasnawt&theme=github_dark)
+
 ---
 
 *Building software that feels simple, purposeful, and worth using.*
