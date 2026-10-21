@@ -1,4 +1,4 @@
-# Hi, I'm Veasna 👋
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veasnawt&theme=github_dark)
 
 **Independent developer building software for creativity, discovery, and the next generation of computing.**
 
@@ -33,11 +33,12 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
 
 [**GitHub**](https://github.com/veasnawt) · [**npm**](https://www.npmjs.com/~veasnawt) · [**VCut**](https://vcut.io) · [**VIcons**](https://github.com/veasnawt/vicons)
 
-## 📊 GitHub Productivity
 
-![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veasnawt&theme=github_dark)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veasnawt&theme=github_dark&utcOffset=7)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=veasnawt&theme=radical)](https://git.io/streak-stats)
+
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veasnawt&theme=github_dark)
 
