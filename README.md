@@ -11,8 +11,7 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
 | ![Video](https://vicons-svg-api.veasnawt.workers.dev/video.svg?color=8B5CF6&size=20) &nbsp;**VCut** | A cross-platform video editor with a multi-track timeline, creative tools, and an evolving export workflow. | [Website](https://vcut.io) · [Android](https://play.google.com/store/apps/details?id=com.veasnawt.vcut) |
 | ![Location](https://vicons-svg-api.veasnawt.workers.dev/location.svg?color=EC4899&size=20) &nbsp;**Pinly** | A location-based social app where people leave photos, videos, and moments in real places for others to discover. | [Android](https://play.google.com/store/apps/details?id=com.veasnawt.pinly) |
 | ![Terminal](https://vicons-svg-api.veasnawt.workers.dev/terminal.svg?color=22C55E&size=20) &nbsp;**VOS** | An experimental operating system project, exploring kernels, boot processes, scheduling, and memory management. | *In development* |
-| <img src="https://raw.githubusercontent.com/veasnawt/vicons/HEAD/assets/logo-light.svg" width="20" height="20" alt="VIcons Logo"> &nbsp;**VIcons** | A minimalist SVG icon library for React, with customizable icons for Markdown through the VIcons API. | [GitHub](https://github.com/veasnawt/vicons) · [npm](https://www.npmjs.com/package/@veasnawt/vicons) |
-
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veasnawt/vicons/HEAD/assets/logo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veasnawt/vicons/HEAD/assets/logo-light.svg"><img src="https://raw.githubusercontent.com/veasnawt/vicons/HEAD/assets/logo-light.svg" width="20" height="20" alt="VIcons Logo"></picture> &nbsp;**VIcons** | A minimalist SVG icon library for React, with customizable icons for Markdown through the VIcons API. | [GitHub](https://github.com/veasnawt/vicons) · [npm](https://www.npmjs.com/package/@veasnawt/vicons) |
 ## <img src="https://vicons-svg-api.veasnawt.workers.dev/favorite.svg?color=EC4899&size=22" width="22" alt="" /> Current focus
 
 - **Make VCut dependable:** improve stability, exports, and the first-time editing experience.
@@ -34,15 +33,27 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
 
 ## <img src="https://vicons-svg-api.veasnawt.workers.dev/history.svg?color=F97316&size=22" width="22" alt="" /> GitHub Streak
 
-<div align="left">
+
+<p align="left">
   <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=veasnawt&theme=transparent&background=00000000&hide_border=true&ring=19A4FF&fire=F97316&currStreakLabel=19A4FF"
-      alt="GitHub Streak"
-      width="495"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com?user=veasnawt&amp;theme=meta-dark&amp;background=45%2C777E9229%2C00143169&amp;border=4556508E"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://streak-stats.demolab.com?user=veasnawt&amp;theme=meta-light&amp;background=FFFFFF&amp;border=E5E7EB"
+      />
+      <img
+        src="https://streak-stats.demolab.com?user=veasnawt&amp;theme=meta-light"
+        alt="GitHub Streak"
+        width="495"
+      />
+    </picture>
   </a>
-</div>
+</p>
+
 
 ---
 
