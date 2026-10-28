@@ -4,7 +4,7 @@
 
 I enjoy turning ambitious ideas into real products, from video editing and location-based social experiences to developer tools and operating systems. I care about thoughtful design, useful technology, and the details that make software feel right.
 
-## <img src="https://vicons-svg-api.veasnawt.workers.dev/star.svg?color=F59E0B&size=22" width="22" alt="" /> Projects
+## <img src="https://vicons-svg-api.veasnawt.workers.dev/star.svg?color=F59E0B&size=23" width="22" alt="" /> Projects
 
 | Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What I'm building | Explore |
 | :--- | :--- | :--- |
@@ -19,19 +19,19 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
 - **Keep learning through VOS:** build and test low-level systems, one milestone at a time.
 - **Contribute to open source:** create reusable tools and share what can help other developers.
 
-## <img src="https://vicons-svg-api.veasnawt.workers.dev/code.svg?color=19A4FF&size=22" width="22" alt="" /> Technologies
+## <img src="https://vicons-svg-api.veasnawt.workers.dev/code.svg?color=19A4FF&size=23" width="24" alt="" /> Technologies
 
-<img src="https://vicons-svg-api.veasnawt.workers.dev/desktop.svg?color=8B5CF6&size=18" width="18" alt="" /> **Apps & interfaces:** TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, React Native, Capacitor, Electron, Kotlin
+- **Apps & interfaces:** TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, React Native, Capacitor, Electron, Kotlin
 
-<img src="https://vicons-svg-api.veasnawt.workers.dev/terminal.svg?color=F59E0B&size=18" width="18" alt="" /> **Back end & tooling:** Node.js, Supabase, FFmpeg, Docker, Git, GitHub
+- **Backend & tooling:** Node.js, Supabase, FFmpeg, Docker, Git, GitHub
 
-<img src="https://vicons-svg-api.veasnawt.workers.dev/cosmos.svg?color=22C55E&size=18" width="18" alt="" /> **Systems & exploration:** Rust, C, x86 assembly, Linux, QEMU
+- **Systems & exploration:** Rust, C, x86 assembly, Linux, QEMU
 
-## <img src="https://vicons-svg-api.veasnawt.workers.dev/globe.svg?color=06B6D4&size=22" width="22" alt="" /> Find my work
+## <img src="https://vicons-svg-api.veasnawt.workers.dev/globe.svg?color=06B6D4&size=22" width="20" alt="" /> Find my work
 
 [**GitHub**](https://github.com/veasnawt) · [**npm**](https://www.npmjs.com/~veasnawt) · [**VCut**](https://vcut.io) · [**VIcons**](https://github.com/veasnawt/vicons)
 
-## <img src="https://vicons-svg-api.veasnawt.workers.dev/history.svg?color=F97316&size=22" width="22" alt="" /> GitHub Streak
+## <img src="https://vicons-svg-api.veasnawt.workers.dev/history.svg?color=F97316&size=22" width="23" alt="" /> GitHub Streak
 
 
 <p align="left">
