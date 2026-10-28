@@ -26,7 +26,7 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
 
 <img src="https://vicons-svg-api.veasnawt.workers.dev/terminal.svg?color=F59E0B&size=18" width="18" alt="" /> **Back end & tooling:** Node.js, Supabase, FFmpeg, Docker, Git, GitHub
 
-<img src="https://vicons-svg-api.veasnawt.workers.dev/cosmos.svg?color=22C55E&size=18" width="18" alt="" /> **Systems & exploration:** C, x86 assembly, Linux, QEMU
+<img src="https://vicons-svg-api.veasnawt.workers.dev/cosmos.svg?color=22C55E&size=18" width="18" alt="" /> **Systems & exploration:** Rust, C, x86 assembly, Linux, QEMU
 
 ## <img src="https://vicons-svg-api.veasnawt.workers.dev/globe.svg?color=06B6D4&size=22" width="22" alt="" /> Find my work
 
