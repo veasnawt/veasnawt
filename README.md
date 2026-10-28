@@ -42,18 +42,6 @@ I enjoy turning ambitious ideas into real products, from video editing and locat
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://vicons-svg-api.veasnawt.workers.dev/desktop.svg?color=19A4FF&size=22" width="22" alt="Desktop" align="absmiddle">
-        <strong>Veasna OS</strong>
-      </td>
-      <td valign="middle">
-        An open-source creative desktop experience that brings together apps, studios, and shared tools.
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/veasnawt/veasna-os">GitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
         <img src="https://vicons-svg-api.veasnawt.workers.dev/terminal.svg?color=19A4FF&size=22" width="22" alt="Terminal" align="absmiddle">
         <strong>VOS</strong>
       </td>
